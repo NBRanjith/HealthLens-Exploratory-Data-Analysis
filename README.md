@@ -17,7 +17,7 @@ Technologies Used
 - Python: The primary language for data manipulation and analysis.
 - Pandas: For data manipulation and handling.
 - Matplotlib & Seaborn: For data visualization.
-- Google Colab: For creating an interactive and readable analysis.
+- Google Colab and Jupyter Notebook: For creating an interactive and readable analysis.
 
 # Key Code and Findings
 1. Data Cleaning
